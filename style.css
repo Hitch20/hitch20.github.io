@@ -1,0 +1,16 @@
+#formular{
+  display: grid;
+  padding: 50px;
+  background-color: 	#FFDEAD;
+}
+
+
+#nume{
+  padding: 20px 0 20px 50px;
+  background-color: 	#00FA9A;
+}
+
+#nota{
+  text-align: center;
+  padding: 30px;
+}
